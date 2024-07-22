@@ -30,16 +30,17 @@ The primary goal of this project is to enhance Atliq Grands' market share and re
 7. Realisation %
 8. occupancy and cancellation %
    
-#**power BI fundamentals**#
+**power BI fundamentals**
 1. data cleaning and snowflake schema modelling
 2. learnt about page navigation, tool tip,conditional formatting
 3. created donut ,line,ribbon , line and clustered columns chart, matrix table.
+
 **soft skills**
 1. domain knowledge in hospitality
 2. understanding stakeholders requirement from mock up dashboard
+   
 **Repository Contents**
-```
-project pdf: Contains dashboard pdf files
+```project pdf: Contains dashboard pdf files
 insights: contians key insigths from dashboard
 recommendation: contains key recommendations from dashboard
 data modelling : star and schema modelling between fact and dimension table
