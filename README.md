@@ -29,7 +29,8 @@ The primary goal of this project is to enhance Atliq Grands' market share and re
 6. DURN
 7. Realisation %
 8. occupancy and cancellation %
-**power BI fundamentals**
+   
+#**power BI fundamentals**#
 1. data cleaning and snowflake schema modelling
 2. learnt about page navigation, tool tip,conditional formatting
 3. created donut ,line,ribbon , line and clustered columns chart, matrix table.
