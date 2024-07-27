@@ -3,6 +3,8 @@
 
 ** **LIVE DASHBOARD LINK** : ([https://app.powerbi.com/links/bpfH6BeVCm?ctid=4bd4e0ac-f8ac-4496-adfe-67fe10e7c467&pbi_source=linkShare](https://app.powerbi.com/view?r=eyJrIjoiOWVjZjQxNGUtNzlmZS00Mjg0LWE4MzQtY2FiZWU1NGIzYTk0IiwidCI6IjRiZDRlMGFjLWY4YWMtNDQ5Ni1hZGZlLTY3ZmUxMGU3YzQ2NyJ9))
 
+** **LIVE VIDEO LINK** :(https://www.youtube.com/watch?v=SpGeVH30VpE)
+
 **Overview**
 This repository contains the project files for the Atliq Grands Hospitality Analytics project. Atliq Grands, a prominent player in India's hospitality sector, faced challenges in the luxury business hotel segment. This project aims to address those challenges by incorporating data-driven strategies and business intelligence.
 
